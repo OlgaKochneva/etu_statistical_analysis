@@ -1,0 +1,4 @@
+#used Python 3.10.12, but probably work with other versions of python and required packages
+
+notebook==7.2.1
+pandas==2.2.2
